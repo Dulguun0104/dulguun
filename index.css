@@ -1,0 +1,35 @@
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    overflow-y: auto;
+    scroll-snap-type: mandatory;
+    
+}
+.durs1{
+    width: 500px;
+    height: 500px;
+    background-color: yellowgreen;
+    scroll-snap-align: center;
+}
+.durs2{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(14, 22, 3);
+}
+.durs3{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(61, 47, 112);
+}
+.durs4{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(45, 145, 58);
+}
+.durs5{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(201, 147, 32);
+}
+
